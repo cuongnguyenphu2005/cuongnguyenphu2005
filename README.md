@@ -1,6 +1,5 @@
 # 💫About Me :
-Hi ! I'm fresher 
-Come from Viet Nam with a lot of energy
+Hi ! I'm fresher come from Viet Nam with a lot of energy
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cuongchovaynanglai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/npc_bluerice) 
